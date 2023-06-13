@@ -1,12 +1,12 @@
-# KamariGames
+# Zafari Games
 
-Kamari es una paguina web dedicada a la venta de videojuegos, donde se puede exlorar y comprar.
+Zafari es una paguina web dedicada a la venta de videojuegos, donde se puede exlorar y comprar.
 
 ## Caracteristicas
 
 Contamos con:
 
-Pagina preincipal: En la opcion "Inicio" vas a poder conocen un poco la historia de Kamari.
+Pagina preincipal: En la opcion "Inicio" vas a poder conocen un poco la historia de Zafari.
 
 Catalogo de juegos: En nustro catalogo se podran ver los ultimos lanzamientos, clasicos y mucho mas!
 

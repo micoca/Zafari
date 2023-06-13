@@ -14,4 +14,4 @@ Detalles de los juegos: Mira la informacion detallada sobre cada juego en la opc
 
 Carrito de compras: Agrega los juegos que desees comprar a tu carrito de compras. 
 
-Contactos: Si tenes alguna consulta podes entrar a la opcion "Contactos" donde vas a poder dejar tu preguta y vas a poder ver nuestras redes.
+Contactos: Si tenes alguna consulta podes entrar a la opcion "Contactos" donde vas a poder dejar tu preguta y vas a poder ver nuestras redes. 
